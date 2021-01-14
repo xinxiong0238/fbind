@@ -19,15 +19,6 @@ You can install foofactors like so:
 devtools::install_github("xinxiong0238/foofactors")
 ```
 
-## Example
-
-This is a basic example which shows you how to solve a common problem:
-
-``` r
-library(foofactors)
-## basic example code
-```
-
 ## Quick demo
 
 Binding two factors via `fbind()`:
